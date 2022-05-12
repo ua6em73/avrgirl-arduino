@@ -1,6 +1,6 @@
 var Avrgirl = require('../../');
 var avrgirl = new Avrgirl({
-  board: 'nano',
+  board: 'lgt8f',
   debug: true
 });
 
