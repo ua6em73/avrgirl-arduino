@@ -29,7 +29,7 @@ The current supported list:
 + **Arduino Micro**
 + **Arduino Nano**
 + **Arduino Nano (328PB)**
-+ **Arduino Nano (LGT8F WAVGAT) **
++ **Arduino Nano (LGT8f WAVGAT)**
 + **Arduino Duemilanove (168)**
 + **Arduino Pro Mini**
 + **Arduino Lilypad USB**
